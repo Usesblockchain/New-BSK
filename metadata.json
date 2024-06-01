@@ -1,0 +1,12 @@
+{
+  "name": "Baby Shark Token",
+  "symbol": "BST",
+  "uri": "https://indigo-cheap-louse-846.mypinata.cloud/ipfs/QmPcGdPrgY668udXiU1Ep2HxbePxh6KZMfnPxYc98459uu",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "keyeCJBLqdWa1uCryV5rg7TD8C3BAkJbMpeGy4Kv4dx",
+      "share": 100
+    }
+  ]
+}
